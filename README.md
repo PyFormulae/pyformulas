@@ -22,5 +22,8 @@ Runs a function at a specified interval, in separate threads
 * #### pf.download()
 Downloads a file from a web address
 
+* #### pf.discrete_search()
+Search for a goal using the A* search algorithm
+
 * #### pf.net.Stream
 Creates a versatile TCP network stream
